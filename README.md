@@ -5,7 +5,7 @@
 
 `start`
 
-* starts the container. params [name, port]
+* starts the container [name, port]
 
 ```
 source start.sh web 8080
@@ -13,7 +13,7 @@ source start.sh web 8080
 
 `stop`
 
-* stops the container. params [name]
+* stops the container [name]
 
 ```
 source stop.sh web
